@@ -17,8 +17,8 @@ dateFormat = "2 January 2006"
 [author]
   name = "Francesco Scalise"
   image = "profile/SCALISE_Francesco.jpeg"
-  headline = "Mobile technical leader @ Eco-MInd"
-  bio = "A little bit about you"
+  headline = "Mobile technical leader @ Eco-Mind"
+  bio = "Mobile technical leader @ Eco-Mind"
   links = [
       { linkedin = "https://www.linkedin.com/in/francescoscalise/" },
       { twitter = "https://twitter.com/ciccioska" },
